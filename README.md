@@ -1,0 +1,1 @@
+Simple quiz is a responsive webpage illustrating html forms and javascript logic.
